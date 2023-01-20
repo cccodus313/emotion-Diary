@@ -8,7 +8,7 @@ import Edit from "./pages/Edit";
 import Diary from "./pages/Diary";
 
 const reducer = (state, action) => {
-  const newState = [];
+  let newState = [];
   switch (action.type) {
     case "INIT": {
       return action.data;
@@ -111,8 +111,8 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/new" element={<New />} />
-              <Route path="/edit" element={<Edit />} />
-              <Route path="/diary" element={<Diary />} />
+              <Route path="/edit/:id" element={<Edit />} />
+              <Route path="/diary/:id" element={<Diary />} />
             </Routes>
           </div>
         </BrowserRouter>
