@@ -1,4 +1,5 @@
 const EmotionItem = ({ emotion_id, emotion_img, emotion_descript, onClick, isSelected }) => {
+  console.log(emotion_id);
   return (
     <div
       onClick={() => onClick(emotion_id)}
