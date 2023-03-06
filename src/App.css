@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Yeon+Sung&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Yeon+Sung&display=swap');
 
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #f6f6f6;
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
   min-height: 100vh;
   margin: 0px;
 }
@@ -43,7 +43,7 @@ body {
   margin-right: 15px;
   font-size: 18px;
   white-space: nowrap;
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
 }
 
 .MyButton_positive {
@@ -59,7 +59,6 @@ body {
 header {
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-right: -17px;
   display: flex;
   align-items: center;
   border-bottom: 1px solid #e2e2e2;
@@ -81,7 +80,7 @@ header .head0btn-left {
 header .head0btn-right {
   width: 25%;
   justify-content: end;
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
 }
 /* DiaryList */
 
@@ -107,7 +106,7 @@ header .head0btn-right {
   padding-left: 20px;
   padding-right: 20px;
   cursor: pointer;
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
   font-size: 18px;
 }
 /* DiaryItem */
@@ -183,7 +182,7 @@ header .head0btn-right {
   padding-left: 20px;
   padding-right: 20px;
   cursor: pointer;
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
   font-size: 20px;
 }
 .DiaryEditor .emotion_list_wrapper {
@@ -193,7 +192,7 @@ header .head0btn-right {
 }
 
 .DiaryEditor textarea {
-  font-family: "Nanum Pen Script";
+  font-family: 'Nanum Pen Script';
   font-size: 20px;
   box-sizing: border-box;
   width: 100%;
@@ -308,7 +307,7 @@ header .head0btn-right {
   padding: 20px;
   text-align: left;
   font-size: 20px;
-  font-family: "Yeon Sung";
+  font-family: 'Yeon Sung';
   font-weight: 400;
   line-height: 2.5;
 }
