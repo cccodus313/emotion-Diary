@@ -1,18 +1,64 @@
-## 프로젝트 이름
 
-Emotion-Diary
 
-## 프로젝트 기간
+  <h3 >CCCCHAT</h3>
 
-### 2023.01.20 ~ 2023.01.24
+  <p >
+    Write down your feelings!!!
+    <br />
+    <a href="https://cccchat.vercel.app/"><strong> https://chaeyeon-emotiondiary.web.app/</strong></a>
 
-## 프로젝트 설명
 
-나의 감정을 표현하는 이모티콘을 통해 그 날의 나만의 감정을 일기로 작성할 수 있다.
 
-## 주요기능
 
-1. 일기 작성(날짜 변경 가능)
-2. 일기 수정
-3. 일기 삭제
-4. Firebase로 배포 완료 
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+![ezgif com-video-to-gif](https://github.com/cccodus313/emotion-Diary/assets/117969697/2b086965-4dc5-4a20-8265-08e754f829d6)
+
+## About The Project
+1.날짜 관리 오늘의 날짜 표시 및 원하는 날짜 이동
+
+2.일기 작성
+
+3.일기 데이터 수정
+
+4.일기 데이터 삭제
+
+5.배포-Firebase 
+
+
+
+### Built With
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+* npm 
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/cccodus313/emotion-Diary.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+
+
+
+
+
+
+
